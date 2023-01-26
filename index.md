@@ -1,7 +1,7 @@
 
 Hello, 
 this is my **main** githbub user page.
-This are my main interests
+This are my main interests:
 *innovation
 *python
 *c++
