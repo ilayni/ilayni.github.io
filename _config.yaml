@@ -1,0 +1,9 @@
+# Site settings
+title: My github webpage
+author:
+  name: Ilay
+  email: tobe@inserted.com
+description: "My webpage for github"
+
+# Build settings
+remote_theme: jekyll/minima
